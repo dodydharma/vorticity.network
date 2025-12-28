@@ -1,2 +1,5 @@
 # Vorticity Conservation on Surrogate Model
-Vorticity Conservation on Surrogate Model paper coming soon available.
+Extending Graph Network Simulators for Particle-Based Simulations of Transient Flow Problems
+
+Under Review for:
+Special Issue of the Journal of Computational Science
