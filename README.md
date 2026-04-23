@@ -1,4 +1,5 @@
 # Extending Graph Network Simulators for Particle-Based Simulations of Transient Flow Problems
+[The Journal of Computational Science](https://www.scimagojr.com/journalsearch.php?q=19700174607&tip=sid)
 
 ## Paper Status
 
@@ -6,7 +7,7 @@
 
 
 **Preprint available on SSRN:** 
-**Journal:**  [The Journal of Computational Science (Q1)](https://www.scimagojr.com/journalsearch.php?q=19700174607&tip=sid)
+**Journal:**  [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6227649](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6227649)
 
 
 > **Note:** This paper is currently under peer review. The preprint version is available via the SSRN link above. This README will be updated once the final peer-reviewed version is published.
