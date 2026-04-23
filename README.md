@@ -2,11 +2,12 @@
 
 ## Paper Status
 
-**Status:** Under peer review
+**Status:** Minor Revision
 
-**Journal:** Special Issue of the Journal of Computational Science
 
-**Preprint available on SSRN:** [https://ssrn.com/abstract=6227649](https://ssrn.com/abstract=6227649)
+**Preprint available on SSRN:** 
+**Journal:**  [The Journal of Computational Science (Q1)](https://www.scimagojr.com/journalsearch.php?q=19700174607&tip=sid)
+
 
 > **Note:** This paper is currently under peer review. The preprint version is available via the SSRN link above. This README will be updated once the final peer-reviewed version is published.
 
