@@ -3,7 +3,7 @@
 
 ## Paper Status
 
-**Status:** Minor Revision
+**Status:** [Accepted (Production)](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Ftracking%2Farticle%2Fdetails.do%3Faid=102931%26jid=JOCS%26surname=Dharma/1/0102019eafb48bfb-3d4dc341-73fe-43e5-948f-f4865f389e91-000000/viwbsTkzVPpH6JwWrzHA_g14sVk=473)
 
 
 **Preprint available on SSRN:** 
