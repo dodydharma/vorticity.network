@@ -11,7 +11,7 @@
 
 ## Citation
 
-If you find this work useful, please cite the preprint:
+If you find this work useful, please cite the paper:
 
 ```bibtex
 @article{DHARMA2026102931,
