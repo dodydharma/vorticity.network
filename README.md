@@ -1,4 +1,4 @@
-# Extending Graph Network Simulators for Particle-Based Simulations of Transient Flow Problems
+# [Extending Graph Network Simulators for Particle-Based Simulations of Transient Flow Problems](https://authors.elsevier.com/a/1nMeb6gytHA7zL)
 [The Journal of Computational Science](https://www.scimagojr.com/journalsearch.php?q=19700174607&tip=sid)
 
 ## Paper Status
