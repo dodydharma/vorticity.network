@@ -2,9 +2,9 @@
 [The Journal of Computational Science](https://www.scimagojr.com/journalsearch.php?q=19700174607&tip=sid)
 
 ## Paper Status
-**Status:** [Accepted](https://www.sciencedirect.com/science/article/pii/S1877750326001493)
+**Status:** [Accepted](https://authors.elsevier.com/a/1nMeb6gytHA7zL)
 
-**Paper Url:**  [https://doi.org/10.1016/j.jocs.2026.102931](https://doi.org/10.1016/j.jocs.2026.102931)
+**Paper Url:**  [https://doi.org/10.1016/j.jocs.2026.102931]( https://authors.elsevier.com/a/1nMeb6gytHA7zL )
 
 
 > **Note:** This paper is now available online.
